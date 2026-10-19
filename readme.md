@@ -126,6 +126,12 @@ These repositories offer extensive collections of skills across multiple domains
   - Skills use the open SKILL.md format and work with Claude, ChatGPT, and 20+ AI platforms
   - Paid marketplace; skills are domain-specific and ready to install
 
+- [PlugVet](https://plugvet.com)
+  - Free directory that grades Claude Code skills, plugins and MCP servers from A to F
+  - Eight automated hygiene checks: permissions, install and update, network, secrets, agent instructions, obfuscation, licence and maintainer activity
+  - Each entry shows the evidence and the date it was checked
+  - A hygiene screen, not a security guarantee
+
 - [garrytan/gstack](https://github.com/garrytan/gstack) ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
   - Garry Tan's exact Claude Code setup
   - 6 opinionated tools for startup leadership
